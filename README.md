@@ -1,5 +1,7 @@
 # TP Final
 
+![Deployment](cloud2020-final.png)
+
 El objetivo es escribir y hacer deployment de una función en **openfaas** que reciba un objeto en formato JSON desde **minio** y lo guarde en una colección en **mongodb**.
 
 ## Herramientas
