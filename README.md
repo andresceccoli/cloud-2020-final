@@ -18,6 +18,7 @@ El objetivo es escribir y hacer deployment de una función en **openfaas** que r
 - Tener en cuenta las claves utilizadas para luego poder acceder
 - Instalar en la máquina local el cliente minio para poder configurar el servidor
     - https://docs.min.io/docs/minio-client-quickstart-guide.html
+- Configurar en el archivo ```~/.mc/config.json``` el alias ```local``` con el access key y secret key correctos.
 
 ### Instalacion de mongodb
 
